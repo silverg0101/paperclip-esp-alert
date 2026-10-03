@@ -4,7 +4,7 @@ A desk companion for [Paperclip](https://github.com/paperclipai/paperclip). It's
 
 > **Work in progress.** I'm actively building the first release. The firmware, the Paperclip plugin and the 3D-printable housing will be published here when v1 is ready. Watch the repo to hear when it lands.
 
-![Housing, isometric view](docs/images/cad/assembly-Isometric.jpg)
+<p align="center"><img src="docs/images/device.jpg" alt="The desk device showing the home screen, with the underglow lit" width="420"></p>
 
 ## What it does
 
@@ -41,6 +41,8 @@ Coming next: a **"Needs you" list**. The device will show everything open in Pap
 - 3D-printed housing (PLA+ or PETG), printed without supports, with a clear floor that diffuses the underglow
 
 The housing is fully parametric: a script rebuilds every part in SolidWorks from one set of dimensions. STL files will ship with the release.
+
+![Housing, isometric view](docs/images/cad/assembly-Isometric.jpg)
 
 | | | |
 |:-:|:-:|:-:|
